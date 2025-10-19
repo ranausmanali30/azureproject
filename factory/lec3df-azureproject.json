@@ -1,0 +1,9 @@
+{
+	"name": "lec3df-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4a2aebc-2bc3-4b91-90c0-8446088afbca",
+		"tenantId": "3399a3d6-191d-48d7-981a-bc6fbcb48d3f"
+	}
+}
